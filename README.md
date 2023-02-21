@@ -3,7 +3,7 @@ This app to convert files from ".webex" to ".mp4"
 
 ***********************
 
-Important: This file is only for (Windows) devices.
+Important: This files "App" is only for (Windows) devices.
 
 ***********************
 
